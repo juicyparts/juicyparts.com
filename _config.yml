@@ -1,0 +1,8 @@
+title: Juicyparts.github.com
+description: Public-facing Organizational website for Juicy Parts Software
+google_analytics: UA-16194795-1
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
